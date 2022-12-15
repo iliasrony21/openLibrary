@@ -1,0 +1,87 @@
+[
+    {
+      "id": "1",
+     
+      "img": "https://play-lh.googleusercontent.com/cthtVSYwf4OZhN-psYWa63UMJ-M1t5oTMv8bXbIwhEapha3Xe4TirmsvxFXi-E_suVw=w526-h296-rw",
+      "buttonName": "Preview",
+      "bgClass":"#FFF"
+    },
+    {
+        "id": "2",
+       
+        "img": "https://covers.openlibrary.org/b/id/10473609-M.jpg",
+        "buttonName": "Join Waitlist",
+        "bgClass":"#0376B8"
+      },
+      {
+        "id": "3",
+       
+        "img": "https://covers.openlibrary.org/b/id/6424160-M.jpg",
+        "buttonName": "Checked Out",
+        "bgClass":"#333333"
+      },
+      {
+        "id": "4",
+       
+        "img": "https://covers.openlibrary.org/b/id/12749873-M.jpg",
+        "buttonName": "Not in Library",
+        "bgClass":"#333333"
+      },
+      {
+        "id": "5",
+       
+        "img": "https://covers.openlibrary.org/b/id/12539702-M.jpg",
+        "buttonName": "Not in Library",
+        "bgClass":"#333333"
+      },
+      {
+        "id": "6",
+       
+        "img": "https://covers.openlibrary.org/b/id/8315302-M.jpg",
+        "buttonName": "Borrow",
+        "bgClass":"#0376B8"
+      },
+      {
+        "id": "7",
+       
+        "img": "https://covers.openlibrary.org/b/id/10601402-M.jpg",
+        "buttonName": "Not in Library",
+        "bgClass":"#333333"
+      },
+      {
+        "id": "8",
+       
+        "img": "https://covers.openlibrary.org/b/id/6974992-M.jpg",
+        "buttonName": "Join Waitlist",
+        "bgClass":"#0376B8"
+      },
+      {
+        "id": "9",
+       
+        "img": "https://covers.openlibrary.org/b/id/10926303-M.jpg",
+        "buttonName": "Not in Library",
+        "bgClass":"#333333"
+      },
+      {
+        "id": "10",
+       
+        "img": "https://covers.openlibrary.org/b/id/12439714-M.jpg",
+        "buttonName": "Join Waitlist",
+        "bgClass":"#0376B8"
+      },
+      {
+        "id": "11",
+       
+        "img": "https://covers.openlibrary.org/b/id/8747160-M.jpg",
+        "buttonName": "Not in Library"
+      },
+      {
+        "id": "12",
+       
+        "img": "https://covers.openlibrary.org/b/id/12699297-M.jpg",
+        "buttonName": "Checked Out"
+      }
+
+    
+  ]
+  

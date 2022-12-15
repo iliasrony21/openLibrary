@@ -1,25 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import Footer from './Components/Footer'
+import Around from './Components/Home/Around'
+import Header from './Components/Home/Header'
 
-function App() {
+import Welcome from './Components/Home/Welcome'
+import Practise from './Components/Practise'
+
+function App () {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='bg-[#E1DCC5]'>
+      <Header></Header>
+      <Welcome></Welcome>
+      <Practise name={'Trending Books'}></Practise>
+      <Practise name={'Classic Books'}></Practise>
+      <Practise name={'Books We Love'}> </Practise>
+      <Practise name={'Recently Returned'}></Practise>
+      <Practise name={'Romance'}></Practise>
+      <Practise name={'Kids'}></Practise>
+      <Practise name={'Thrillers'}></Practise>
+      <Practise name={'Textbooks'}></Practise>
+      <Practise name={'Authors Alliance & MIT Press'}></Practise>
+      <Around></Around>
+      <Footer></Footer>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
